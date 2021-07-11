@@ -45,13 +45,13 @@ plugins: [jekyll-paginate]
 # or "master" otherwise
 safe: false
 lsi: false
-username: jekyllt
-repo: jasper
-branch: master
+username: rhkrwngud445
+repo: rhkrwngud445.github.io
+branch: main
 relative_source: ../jasper/
 destination: ../jasper-pages/
-production_url:  https://jekyllt.github.io/jasper/
-source_url:  https://github.com/jekyllt/jasper/
+production_url:  https://rhkrwngud445.github.io/jasper/
+source_url:  https://github.com/rhkrwngud445/rhkrwngud445.github.io/
 
 exclude:
   - README.md
